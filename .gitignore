@@ -27,6 +27,10 @@ yarn-error.log*
 
 # local env files
 .env*.local
+.env
+
+# prisma sqlite
+prisma/dev.db
 
 # vercel
 .vercel
