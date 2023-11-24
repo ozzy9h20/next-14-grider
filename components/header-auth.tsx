@@ -1,12 +1,7 @@
 'use client'
-import Link from 'next/link'
 import {
   Avatar,
   Button,
-  Input,
-  Navbar,
-  NavbarBrand,
-  NavbarContent,
   NavbarItem,
   Popover,
   PopoverTrigger,
